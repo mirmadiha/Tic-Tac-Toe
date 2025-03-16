@@ -4,7 +4,7 @@
 }
 
 body{
-    background-color: #E08E45;
+    background-color: #AA6373;
     text-align: center;
 }
 
@@ -32,9 +32,16 @@ body{
     border: none;
     box-shadow: 0 0 1rem rgba(0,0,0,0.2);
     font-size: 8vmin;
-    color:#6B2737
+    color:#392061;
+    background-color: #F0F2A6;
 }
 
 #reset-button{
-    
+    width:8rem;
+    height:3rem;
+    background-color: #1A1B25;
+    color:#F0F2A6;
+    border-radius: 0.4rem;
+    font-size: 1rem;
+    border:none;
 }
